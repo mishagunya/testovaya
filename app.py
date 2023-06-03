@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World!,  новая жопа наступила!!'
+    return 'Пробная строка для проверки деплоя на render.com!'
 
 
 
